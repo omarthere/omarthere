@@ -7,6 +7,9 @@
 </a>
 
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@omarthere?theme=asoul" alt="Profile Views" />
+</p>
 
 
 <p align="center">
@@ -17,7 +20,3 @@
 
 
 
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@omarthere?theme=asoul" alt="Profile Views" />
-</p>
