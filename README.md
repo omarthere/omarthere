@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58a6ff&width=435&lines=Hello%2C+it's+Omar+Mohammed;Web+Dev" alt="Business Analyst"/>
 </a>
 
-![leafmoes](https://count.getloli.com/get/@omarthere?theme=asoul)
+
 
 
 <p align="center">
@@ -14,7 +14,10 @@
   <img src="https://raw.githubusercontent.com/omarthere/stats/eb1a24f6198151a01698a80e9a844f33016f2525/languages.svg" alt="Languages" />
 </p>
 
+---
 
 
 
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@omarthere?theme=asoul" alt="Profile Views" />
+</p>
